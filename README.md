@@ -1,1 +1,1 @@
-# fashionBlog
+# fashion-blog
